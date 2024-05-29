@@ -1,0 +1,67 @@
+body{
+    background-image: linear-gradient(#7F7FD5, #91EAE4);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 200px;
+}
+
+
+#enter{
+padding: 5px, 15px;
+font-size: 1em;
+color: white;
+background-color: rgb(66, 78, 78);
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.25s;
+}
+
+#enter:hover{
+background-color: rgb(23, 24, 24);
+}
+
+#back{
+    color: rgb(29, 0, 192);
+    font-family: sans-serif;
+}
+
+#enter1{
+    padding: 5px, 15px;
+    font-size: 1em;
+    color: white;
+    background-color: rgb(66, 78, 78);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    }
+    
+#enter1:hover{
+    background-color: rgb(23, 24, 24);
+}
+
+ #enter2{
+    padding: 5px, 15px;
+    font-size: 1em;
+    color: white;
+    background-color: rgb(66, 78, 78);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+        
+#enter2:hover{
+    background-color: rgb(23, 24, 24);
+}
+        
+#scale{
+    border-radius: 5px;
+}
+
+#badbad{
+    color: rgb(8, 219, 103);
+    background-color: rgb(85, 80, 80);
+}
